@@ -4,3 +4,7 @@ backend/uploads/
 venv/
 __pycache__/
 *.pyc
+*.pyo
+.chroma_db/
+frontend/node_modules/
+frontend/dist/

@@ -1,0 +1,11 @@
+{
+  "companies": [
+    "openai",
+    "huggingface",
+    "scaleai",
+    "anthropic",
+    "databricks",
+    "cohere",
+    "mistral"
+  ]
+}
